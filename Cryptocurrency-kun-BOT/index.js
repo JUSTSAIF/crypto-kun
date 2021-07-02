@@ -8,7 +8,8 @@ express() // 2 Del
 
 const client = new Discord.Client();
 const token = ""; // YOUR Discord Bot Token
-const Api = 'https://api.nomics.com/v1/currencies/ticker?key=e6215948d47c8b6f2b9355c18089f0c1e8f49efb&ids=BTC,ETH,XRP,DOGE&interval=1d,30d&convert=USD&per-page=100&page=1';
+const ApiKey = "Gen New Key From Here & set it Here , Link : https://p.nomics.com/pricing#free-plan"
+const Api = `https://api.nomics.com/v1/currencies/ticker?key=${ApiKey}&ids=BTC,ETH,XRP,DOGE&interval=1d,30d&convert=USD&per-page=100&page=1`;
 const BtcImg = "https://cdn.discordapp.com/attachments/847712630500098068/847712742025854976/btc.png";
 const EthImg = "https://cdn.discordapp.com/attachments/847712630500098068/847712744374272050/eth.png";
 const XrpImg = "https://cdn.discordapp.com/attachments/847712630500098068/847712745621291038/xrp.png";

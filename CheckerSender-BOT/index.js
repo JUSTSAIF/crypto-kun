@@ -10,12 +10,12 @@ express()
 
 const client = new Discord.Client();
 const token = ""; // YOUR `Second` Discord Bot Token
-const Api = 'https://api.nomics.com/v1/currencies/ticker?key=e6215948d47c8b6f2b9355c18089f0c1e8f49efb&ids=BTC,ETH,XRP,DOGE&interval=1d,30d&convert=USD&per-page=100&page=1'; // if token invalid or expired Gen new one from the smae website <==
+const ApiKey = "Gen New Key From Here & set it Here , Link : https://p.nomics.com/pricing#free-plan"
+const Api = `https://api.nomics.com/v1/currencies/ticker?key=${ApiKey}&ids=BTC,ETH,XRP,DOGE&interval=1d,30d&convert=USD&per-page=100&page=1`;
 const Embedimg = 'https://cdn.discordapp.com/attachments/763638730653040650/848452050047860746/dance.gif';
 let justAnumber = 0;
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
-    client.user.setActivity("DM Sender .. 0w0")
     setInterval(async () => {
         const data = await axios.get(Api).then(res=>{
             return res.data
