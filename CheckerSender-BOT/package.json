@@ -1,0 +1,28 @@
+{
+  "name": "cryptocurrency-kun-checker",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "cryptocurrency"
+  ],
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cron": "^1.8.2",
+    "discord-dmsupport": "^1.0.5",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

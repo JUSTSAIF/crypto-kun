@@ -1,0 +1,23 @@
+{
+  "name": "cryptocurrency-kun",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "cryptocurrency"
+  ],
+  "author": "saif | Mr28",
+  "license": "ISC",
+  "type": "module"
+}
