@@ -35,5 +35,5 @@ will send DM to you 'Max Triggers : 1'.
     - !sheeh : donate to me
     - !hmm   : About Me
 
-<img src="https://discordapp.com/api/guilds/723932466251038751/widget.png?style=banner1" alt="Discord Banner 1"/>
+<img src="https://discordapp.com/api/guilds/723932466251038751/widget.png?style=banner3" alt="my server, Find Me On Discord By This"/>
 
