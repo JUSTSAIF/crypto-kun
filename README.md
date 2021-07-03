@@ -8,6 +8,8 @@
    - Go to [Nomics](https://p.nomics.com/pricing#free-plan) website & generate new API key
    - Go to the `index.js` file & set the token in `ApiKey` var ,  Follow the commands [Notice : These Steps apply on CheckerSender & Cryptocurrency-kun]
    - Remove the `express` pkg, import, function if your not using [Heroku](https://heroku.com/)
+
+#### Description
 ```
 This bot can show you prices of cryptocurrencies ,
 Available Cryptocurrencies in this time just this : BTC,ETH,XRP,DOGE . 
