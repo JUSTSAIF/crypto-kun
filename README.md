@@ -9,6 +9,9 @@
 </p><br>
 ### This bot show you prices of cryptocurrencies, And also you can add price Trigger .
 <br>
+
+
+
 #### Setup :
    - Create Discord Token , [Doc](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
    - Create New Repo & Add a json file with empty array 
