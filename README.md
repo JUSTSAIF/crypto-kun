@@ -20,7 +20,7 @@ until the cryptocurrency real price equal to your inserted price
 will send DM to you 'Max Triggers : 1'.
 ```
 #### Commands :
-   ###### Show a Cryptocurrency info :
+   ###### Show a Cryptocurrency info [Price, Price Date, Status] :
     - Like if you want to show bitcoin info type : !btc
 ##### Set Trigger:
    ###### If you want to set bitcoin trigger : 
