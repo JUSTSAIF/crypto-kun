@@ -7,9 +7,11 @@
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="IG">
         </a>
 </p><br>
-### This bot show you prices of cryptocurrencies, And also you can add price Trigger .
-<br>
 
+
+### This bot show you prices of cryptocurrencies, And also you can add price Trigger .
+
+<br>
 
 
 #### Setup :
