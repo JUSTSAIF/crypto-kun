@@ -1,9 +1,9 @@
-# crypto-kun
-## This bot show you prices of cryptocurrencies, And also you can add price Trigger .
+# Cryptocurrency-Chan [ Discord BOT ]
+### This bot show you prices of cryptocurrencies, And also you can add price Trigger .
 
-### Setup :
+#### Setup :
 
-#### Steps : 
+##### Steps : 
    - Create Discord Token , [Doc](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
    - Create New Repo & Add a json file with empty array 
    - Go to the `te.js` file & Follow the commands [Notice : These Steps apply on CheckerSender & Cryptocurrency-kun]
