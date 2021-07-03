@@ -5,7 +5,7 @@
 <a href="https://discord.gg/tjFkhnewwW" rel="nofollow" target="_blank">
         <img src="https://img.shields.io/discord/723932466251038751?logo=discord" alt="chat on Discord" data-canonical-src="https://img.shields.io/discord/723932466251038751?logo=discord" style="max-width:100%;"></a>
         <a href="https://www.instagram.com/ccbot_">
-                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="IG">
+                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="height:3px" alt="IG">
         </a>
 </center><br>
 #### Setup :
