@@ -8,8 +8,8 @@
         </a>
 </p><br>
 
+##### This bot show you prices of cryptocurrencies, And also you can add price Trigger .
 
-### This bot show you prices of cryptocurrencies, And also you can add price Trigger .
 
 <br>
 
