@@ -21,7 +21,7 @@ will send DM to you 'Max Triggers : 1'.
 ```
 #### Commands :
 ##### Show a Cryptocurrency info :
-   - Like if you want to show bitcoin info type : !btc
+    - Like if you want to show bitcoin info type : !btc
 ##### Set Trigger:
    ###### If you want to set bitcoin trigger : 
     - !btc 'YourPrice Here (Int)'
