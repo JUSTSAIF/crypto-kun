@@ -14,7 +14,7 @@
 
 
 #### Setup :
-   - Create Discord Token , [Doc](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+   - Create Github Token , [Doc](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
    - Create New Repo & Add a json file with empty array 
    - Go to the `te.js` file & Follow the commands [Notice : These Steps apply on CheckerSender & Cryptocurrency-kun]
    - Go to [Nomics](https://p.nomics.com/pricing#free-plan) website & generate new API key
